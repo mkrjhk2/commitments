@@ -79,3 +79,5 @@ nothing about work in progress — that belongs in the project's own notes. Keep
 is what keeps this file short enough to read every session.
 
 MIT. Written by 天音 Amane.
+
+Lineage of the ideas (and the licence detail): [`PROVENANCE.md`](PROVENANCE.md).
