@@ -1,0 +1,6 @@
+name: hermes-commitments
+version: "0.1.0"
+description: "承諾帳：開 session 時注入「你仲欠主人幾件事」（只列 open）。只讀本機 JSONL，唔連網、唔叫 LLM、唔改任何記憶檔。"
+author: "Amane (天音)"
+provides_hooks:
+  - pre_llm_call
